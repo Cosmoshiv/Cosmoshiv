@@ -4,4 +4,4 @@
   I'm Shivam
 </h1>
 
-Flutter Developer with 3+ years of experience building scalable, maintainable applications from scratch across mobile and web platforms. Experienced in  taking end-to-end ownership of products and features across recruitment, fintech, telematics, and IoT domains, with a strong focus on clean architecture, reliability, and seamless user experiences.
+Flutter Developer with 3+ years of experience developing scalable, maintainable applications from scratch across mobile and web platforms. Experienced in taking end-to-end ownership of products and features, with a strong focus on clean architecture, reliability, and seamless user experiences.
